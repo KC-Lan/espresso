@@ -31,5 +31,6 @@ Gene expression data can be downloaded from the following link:
 
 ## Citing
 To cite your use of the espresso software, please reference the following paper:
+* Tomoya Mori, Toshiro Takase, Kuan-Chun Lan, Junko Yamane, Cantas Alev, Azuma Kimura, Kenji Osafune, Jun K. Yamashita, Tatsuya Akutsu, Hiroaki Kitano & Wataru Fujibuchi. eSPRESSO: topological clustering of single-cell transcriptomics data to reveal informative genes for spatio–temporal architectures of cells. _BMC Bioinformatics_ 24, 252 (2023). https://doi.org/10.1186/s12859-023-05355-4
 
 * Tomoya Mori, Toshiro Takase, Kuan-Chun Lan, Junko Yamane, Cantas Alev, Kenji Osafune, Jun Yamashita, and Wataru Fujibuchi. eSPRESSO: a spatial self-organizing-map clustering method for single-cell transcriptomes of various tissue structure using graph-based networks. bioRxiv. doi: http://doi.org/10.1101/2020.12.31.424948.
